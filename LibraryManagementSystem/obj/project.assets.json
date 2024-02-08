@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/parsaila86/.nuget/packages/": {}
+    "C:\\Users\\parsaila86\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/parsaila86/Library/CloudStorage/OneDrive-rit.edu/six semester/NACA 121/Week 4/Unit8/LibraryManagementSystem/LibraryManagementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\parsaila86\\Desktop\\unit-08-assignment-yrahul17\\Unit8\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
       "projectName": "LibraryManagementSystem",
-      "projectPath": "/Users/parsaila86/Library/CloudStorage/OneDrive-rit.edu/six semester/NACA 121/Week 4/Unit8/LibraryManagementSystem/LibraryManagementSystem.csproj",
-      "packagesPath": "/Users/parsaila86/.nuget/packages/",
-      "outputPath": "/Users/parsaila86/Library/CloudStorage/OneDrive-rit.edu/six semester/NACA 121/Week 4/Unit8/LibraryManagementSystem/obj/",
+      "projectPath": "C:\\Users\\parsaila86\\Desktop\\unit-08-assignment-yrahul17\\Unit8\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+      "packagesPath": "C:\\Users\\parsaila86\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\parsaila86\\Desktop\\unit-08-assignment-yrahul17\\Unit8\\LibraryManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/parsaila86/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\parsaila86\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
